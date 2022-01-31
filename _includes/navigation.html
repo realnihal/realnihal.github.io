@@ -3,7 +3,7 @@
     <a href="{{ site.baseurl }}/" class="nav__link">Home</a>
   </li>
   {% for page in site.pages %}
-    {% unless page.name == 'tags.html' or page.name == '404.html' %}
+    {% unless page.name == 'tags.html' or page.name == '404.html' or page.title == 'Style Guide'%}
       {% if page.title %}
       <li class="nav__item">
         <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
@@ -11,4 +11,10 @@
       {% endif %}
     {% endunless %}
   {% endfor %}
+  <li class="nav__item">
+    <a href="https://www.instagram.com/realnihal16/" class="nav__link">Instagram</a>
+  </li>
+  <li class="nav__item">
+    <a href="https://www.youtube.com/channel/UCoqVb7s4wHC1cu-NR-MBgiA" class="nav__link">Youtube</a>
+  </li>
 </ul>
