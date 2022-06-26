@@ -2,7 +2,7 @@
 layout: post
 title:  An Incomplete Introduction to Blockchain Part-1
 description: Hashing algorithms, Immutable ledgers, Distributed P2P networks
-date:   2022-01-17 15:01:35 +0300
+date:   2022-02-10 15:01:35 +0300q
 image:  '/img/posts/blockchain/blockchain.jpg'
 tags:   [Blockchain, Guide]
 ---

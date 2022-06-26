@@ -68,6 +68,7 @@ GEM
     unicode-display_width (1.7.0)
 
 PLATFORMS
+  universal-darwin-21
   x64-mingw32
   x86_64-linux
 
@@ -79,4 +80,4 @@ DEPENDENCIES
   jekyll-tagging
 
 BUNDLED WITH
-   2.2.3
+   2.3.16
