@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy/
-image: '/images/1926554.jpg'
+image: '/images/car.jpeg'
 ---
 
 <p style="text-align: center;">
