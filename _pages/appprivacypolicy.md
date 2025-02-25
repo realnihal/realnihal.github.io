@@ -142,7 +142,7 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 ## Contact Information
 
-<p style="text-align: center;">
+<p style="text-align: left;">
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
 <br>Nihal Puram
