@@ -144,9 +144,6 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 <p style="text-align: center;">
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
-</p>
-
-<p>
 Nihal Puram<br>
 Bharat Drive<br>
 Email: puramnihal@gmail.com
