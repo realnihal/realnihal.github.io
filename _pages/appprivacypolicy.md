@@ -146,24 +146,9 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 </p>
 
-**Data Protection Officer**  
-Bharat Drive  
-[Address]  
-Email: privacy@bharatdrive.com  
-Phone: [Phone Number]
-
-## Grievance Officer
-
-<p style="text-align: center;">
-In accordance with the Information Technology Act, 2000, and associated rules, we have appointed a Grievance Officer to address any discrepancies and grievances you may have regarding our data practices:
-</p>
-
-**Grievance Officer**  
-[Name]  
-Bharat Drive  
-[Address]  
-Email: grievance@bharatdrive.com  
-Phone: [Phone Number]
+Nihal Puram
+Bharat Drive    
+Email: puramnihal@gmail.com
 
 ## Governing Law
 
