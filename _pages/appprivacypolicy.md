@@ -144,13 +144,14 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 <p style="text-align: center;">
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
-/p>
+</p>
 
+<p>
 Nihal Puram<br>
 Bharat Drive<br>
 Email: puramnihal@gmail.com
+</p>
 
-<p
 ## Governing Law
 
 This Privacy Policy is governed by and construed in accordance with the laws of India. Any disputes arising under this Privacy Policy shall be subject to the exclusive jurisdiction of the courts in [City], India.
