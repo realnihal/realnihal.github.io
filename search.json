@@ -6,7 +6,7 @@ layout: null
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
+      "tags"     : "{% if post.tags %}{{ post.tags | array_to_sentence_string }}{% endif %}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: '%b %-d, %Y' }}",
       "content"  : "{{ post.content | strip_html | strip_newlines }}",
