@@ -1,10 +1,20 @@
 ---
 layout: post
-title: X-RAIL: Our Multi-Agent Insurance AI Platform Built with Google Cloud & ADK
+title: X-RAIL - Our Multi-Agent Insurance AI Platform Built with Google Cloud & ADK
 description: "Built for the adkhackathon - X-RAIL is an explainable, multi-agent AI system for insurance risk analysis and simulation, powered by Google Cloud and ADK."
 date: 2025-06-23 21:00:00 +0530
-image: '/img/posts/xrail/XRAIL22.png'
-tags: [Google Cloud, ADK, Insurance AI, Explainable AI, Multi-Agent Systems, Vertex AI, SHAP, BigQuery]
+image: "/img/posts/xrail/XRAIL22.png"
+tags:
+  [
+    Google Cloud,
+    ADK,
+    Insurance AI,
+    Explainable AI,
+    Multi-Agent Systems,
+    Vertex AI,
+    SHAP,
+    BigQuery,
+  ]
 ---
 
 # 🚂 Building X-RAIL: A Multi-Agent AI Insurance Platform Powered by Google Cloud & ADK
